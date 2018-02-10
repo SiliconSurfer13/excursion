@@ -1,17 +1,34 @@
-html {
-  background-color: Black;
+body {
+  background-color: black;
+  font-family: Verdana, san-sans-serif;
+  color: white;
+  font-family: Verdana;
   text-align: center;
+
 }
 
 h1 {
-  font-family: Verdana;
   font-weight: Normal;
   font-size: 50px;
   color: White;
-  text-align: Centered;
 }
 
-p {
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+  color: White;
+}
+
+.links {
   color: Aquamarine;
   font-size: 16px;
+}
+
+#copyright {
+  color: Gray;
+  text-align: right;
+}
+
+#images {
+ text-align: center;
 }
